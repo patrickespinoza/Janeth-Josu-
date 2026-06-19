@@ -73,7 +73,7 @@ const Celebracion = ({
                 Hora
               </p>
 
-              <p className="text-2xl md:text-3xl font-cursiveDancing text-[#5E6650] mt-3">
+              <p className="text-2xl md:text-3xl font-playfair text-[#5E6650] mt-3">
                 {hora}
               </p>
             </div>
