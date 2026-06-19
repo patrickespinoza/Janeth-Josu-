@@ -5,12 +5,13 @@ import Intinerario2 from "./componentes-encabezado/itinerario2";
 import Novios from "./componentes-encabezado/novios";
 import Regalos from "./componentes-encabezado/MesadeRegalos";
 import Confirmacion from "./componentes-encabezado/Confirmacion";
+import Musica from "./componentes-encabezado/musica";
 
 export default function Itinerario() {
 
   return (
     <div>
-
+   <Musica/>
 {/* SECCIÓN VESTIMENTA */}
       <Novios />
       {/* SECCIÓN CELEBRACIONES */}
