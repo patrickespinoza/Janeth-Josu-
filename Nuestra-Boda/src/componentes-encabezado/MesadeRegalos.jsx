@@ -16,7 +16,7 @@ const Regalos = () => {
   const [mostrarModal, setMostrarModal] = useState(false);
   const [copiado, setCopiado] = useState(false);
 
-  const numeroCuenta = "4189140095166848";
+  const numeroCuenta = "345627171891";
 
   const copiarCuenta = () => {
     navigator.clipboard.writeText(numeroCuenta);
@@ -194,7 +194,7 @@ const Regalos = () => {
                 <div className="w-12 h-8 bg-[#B89B5E] rounded-md mb-7 shadow-inner" />
 
                 <p className="text-xl sm:text-2xl tracking-[0.18em] leading-relaxed">
-                  4189 1400 9516 6848
+                  3456 2717 1891
                 </p>
 
                 <div className="mt-7">
